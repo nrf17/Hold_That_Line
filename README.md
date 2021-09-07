@@ -1,0 +1,2 @@
+# Hold_That_Line
+Created Java Spring Boot server-side game logic for Hold That Line by Sid Sackson. Implemented HTTP request APIs to respond to Get and Post calls from the web client that creates lines for the dot game. Request payloads sent from the web client to the server containing info to determine the current player’s turn and the node being accessed. Which are used to create a response body to update the client game.
